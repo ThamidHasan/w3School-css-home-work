@@ -1,0 +1,45 @@
+h1,p{
+	text-align: center;
+	color: #fff;
+	background-color: #95B329;
+	border-radius: 10px;
+	border: 1px solid red;
+}
+
+.picture{
+	background-image: url(img/picture.jpg);
+	width: 800px;
+    height: 500px;
+}
+
+div h2{
+	text-align: center;
+	color: white;
+
+}
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+p {outline-color:red;}
+
+p.dotted {outline-style: dotted;}
+p.dashed {outline-style: dashed;}
+p.solid {outline-style: solid;}
+p.double {outline-style: double;}
+p.groove {outline-style: groove;}
+p.ridge {outline-style: ridge;}
+p.inset {outline-style: inset;}
+p.outset {outline-style: outset;}
+
+h5 {
+  letter-spacing: 15px;
+}
+
+h4 {
+  letter-spacing: -2px;
+}
